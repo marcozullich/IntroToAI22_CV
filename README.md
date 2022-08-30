@@ -1,4 +1,4 @@
-# Giornata 2 - Computer Vision e Reti Neurali
+# Giornata 3 - Computer Vision e Reti Neurali
 
 ## Slide
 
